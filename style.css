@@ -18,13 +18,14 @@ header h1 {
   padding: 30px 20px;
 }
 .video-principal {
-  width: 80%;
-  max-width: 600px;
+  width: 100%;
+  max-width: 350px; /* Diminuímos de 600px para 350px */
   border-radius: 15px;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
 }
+
 
 .descricao {
   font-size: 1.3em;
