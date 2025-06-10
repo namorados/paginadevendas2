@@ -17,12 +17,15 @@ header h1 {
 .venda {
   padding: 30px 20px;
 }
-.venda .imagem-principal {
-  width: 90%;
+.video-principal {
+  width: 100%;
   max-width: 600px;
   border-radius: 15px;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  display: block;
+  margin: 0 auto;
 }
+
 .descricao {
   font-size: 1.3em;
   margin-top: 20px;
