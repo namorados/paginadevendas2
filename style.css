@@ -92,3 +92,7 @@ footer {
   padding: 20px;
   margin-top: 40px;
 }
+.preco-antigo {
+    color: red;
+    font-weight: bold;
+}
